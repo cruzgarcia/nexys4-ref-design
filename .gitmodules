@@ -1,0 +1,3 @@
+[submodule "submodules/hdl-ip-library"]
+	path = submodules/hdl-ip-library
+	url = git@github.com:cruzgarcia/hdl-ip-library.git
